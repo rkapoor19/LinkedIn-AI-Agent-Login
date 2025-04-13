@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Credentials
-EMAIL = "ramankapoor19@gmail.com"
-PASSWORD = "Leamreadwok@123"
+EMAIL = "***"
+PASSWORD = "***"
 
 def login_linkedin():
     # Set up Chrome browser
